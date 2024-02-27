@@ -14,7 +14,7 @@ We ran into challenges with GIT and had to learn bits of JavaScript to help us c
 # Accomplishments that we're proud of
 We are proud of the UI of our website, and how it is user-friendly. Moreover, the change and awareness this will showcase!
 # What we learned
-We learned how to access APIs and use JavaScript to make the website interactive. We also learned how to collaborate on projects as a team and divide work well.
+We learned how to access APIs and use JavaScript to make the website interactive. We also learned how to collaborate on projects as a team and divide work well. Also made new friends!
 # What's next for GreenScore
 We will work on making the GreenQuiz more fun and give it a better UI, as it has the potential to attract a lot of visitors to our website.
 # Built With HTML, CSS, JavaScript, Bootstrap
