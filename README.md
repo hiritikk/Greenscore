@@ -12,7 +12,7 @@ We built this using HTML, CSS, JavaScript, and BootStrap. We also used an API fo
 # Challenges we ran into
 We ran into challenges with GIT and had to learn bits of JavaScript to help us create this project. The hover flashcards and live stats were not very easy to implement, as we had to use JavaScript and APIs.
 # Accomplishments that we're proud of
-We are proud of the UI of our website, and how it is user-friendly.
+We are proud of the UI of our website, and how it is user-friendly. Moreover, the change and awareness this will showcase!
 # What we learned
 We learned how to access APIs and use JavaScript to make the website interactive. We also learned how to collaborate on projects as a team and divide work well.
 # What's next for GreenScore
